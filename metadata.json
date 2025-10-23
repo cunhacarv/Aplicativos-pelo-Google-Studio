@@ -1,0 +1,5 @@
+{
+  "name": "Guia Interativo de Eletricidade",
+  "description": "Uma aplicação web interativa para explorar os conceitos de resistência elétrica, comprimento, área, tensão e corrente, com base em um roteiro de laboratório. Inclui calculadoras interativas e um assistente de IA para explicações.",
+  "requestFramePermissions": []
+}
